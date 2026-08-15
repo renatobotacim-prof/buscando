@@ -18,7 +18,7 @@ aperte ENTER para abrir o navegador e logue na sua conta do github e depois escr
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Guia para fazer Commits
+GUIA PARA FAZER COMMIT's
 
 crie/navegue pelo terminal até a pasta onde vc vai fazer o projeto do GitHub
 
