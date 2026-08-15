@@ -34,9 +34,8 @@ git add .
 
 git commit -m "explicação do commit"
 
-se for a primeira vez que esta comitando nesse computador ou na VM digite os seguintes comandos{
+se for a primeira vez que esta comitando nesse computador ou na VM digite os seguintes comandos
 
 git branch -M main
 
 git push -u origin main
- }
