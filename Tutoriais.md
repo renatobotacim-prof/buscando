@@ -15,7 +15,9 @@ escreva "y" e de ENTER
 Login with a web browser
 
 aperte ENTER para abrir o navegador e logue na sua conta do github e depois escreva o codigo que apareceu no seu terminal
+
 -------------------------------------------------------------------------------------------------------------------------------
+
 Guia para fazer Commits
 
 crie/navegue pelo terminal até a pasta onde vc vai fazer o projeto do GitHub
