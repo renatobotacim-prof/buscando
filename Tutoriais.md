@@ -30,6 +30,8 @@ git remote add origin https://github.com/renatobotacim-prof/buscando.git
 
 agora faça a tarefa que você quer subir para o github
 
+git pull origin main
+
 git add .
 
 git commit -m "explicação do commit"
