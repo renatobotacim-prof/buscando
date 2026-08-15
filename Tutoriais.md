@@ -1,7 +1,3 @@
-# buscando
-
-
-
 GUIA PARA AUTENTICAR O GITHUB NO TERMINAL
 
 sudo dnf install gh -y
